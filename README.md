@@ -4,7 +4,7 @@ this script uses external tools like bc (a command-line calculator) to handle mo
 
 
 ### RSA Encryption Script in Bash
----
+--- 
 #### **The Script**
 
 #### **Explanation of the Script**
